@@ -1,0 +1,54 @@
+.container {
+	max-width: 500px;
+	max-height: 300px;
+	margin: 0 auto;
+	padding: 20px;
+	width: 700px;
+	height: 500px;
+	margin:6% auto;
+	border-radius: 25px;
+	background-color: rgba(0,0,0,0.1);
+	box-shadow: 0 0 17px #333;
+	
+}
+
+h2 {
+  text-align: center;
+  color : #006bb3;
+}
+
+label {
+  display: block;
+  margin-bottom: 10px;
+}
+
+input[type="email"],
+input[type="text"],
+input[type="password"] {
+  width: 80%;
+  padding: 10px;
+  margin-bottom: 10px;
+  border-radius: 25px;
+  font-weight: bold;
+}
+
+button {
+  padding: 10px 20px;
+  
+  border-radius: 25px;
+  background-color:#1c9bd3;
+  font-weight: bold;
+  color:white;
+  
+  
+}
+body
+{
+	
+	background-image: url("images/heartbeat.png");
+	
+	background-size: cover;
+  background-repeat: no-repeat;
+background-position: center 200px;
+	
+}
